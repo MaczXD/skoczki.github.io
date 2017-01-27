@@ -1,0 +1,48 @@
+body {
+ margin: 0px !important;
+ font-family: 'Quicksand', sans-serif;
+ color: #2a2a2a;
+}
+.content {
+	font-size: 23px;
+	margin-left: 2.9%;
+	margin-right: 2.9%;
+	text-align: justify;
+	margin-top: 80px;
+	margin-bottom: 100px;
+}
+.title {
+	background-color: #1d1e1f;
+	padding: 4ex 4ex;
+	color: #ffffff;
+	font-size: 4ex;
+	text-align: center;
+}
+.navigation {
+	width: 100%;
+	font-size: 25px;
+	margin: 0 !important;
+	position: fixed;
+	display:table-cell;
+    vertical-align:middle;
+}
+#png {
+	width: 100%;
+	margin-top: 80px;
+}
+ .links {
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	background-color: #1d1e1f;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	text-align: center;
+	width: 100%;
+	float: left;
+	width: 12.5%;
+}
+.links:hover {
+	color: #000000;
+	background-color: #ffffff;
+}
